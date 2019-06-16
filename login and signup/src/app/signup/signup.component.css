@@ -1,0 +1,11 @@
+.signup-form {
+    width:400px;
+    margin:auto;
+    background-color: aqua;
+    
+}
+
+.signup-form form {
+    margin :5px;
+    padding: 50px;
+}
